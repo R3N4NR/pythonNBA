@@ -1,0 +1,2 @@
+Los Angeles Heat;Oeste
+Miami Heat;Leste
