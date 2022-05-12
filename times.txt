@@ -1,2 +1,4 @@
-Los Angeles Heat;Oeste
 Miami Heat;Leste
+Los Angeles Clippers;Oeste
+Vasco;Oeste
+Boston Celtics;Leste
